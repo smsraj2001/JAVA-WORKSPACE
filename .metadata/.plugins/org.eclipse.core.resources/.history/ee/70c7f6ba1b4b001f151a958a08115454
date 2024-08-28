@@ -1,0 +1,17 @@
+package com.tvsmotor.day5.looselycoupled;
+
+public class GooglePay implements Banking {
+
+	@Override
+	public void transferFund() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void transactionHistory() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

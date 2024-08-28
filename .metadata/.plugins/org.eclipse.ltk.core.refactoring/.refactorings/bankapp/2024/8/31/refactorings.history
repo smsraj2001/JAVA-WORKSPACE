@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;JavaSessions/src&apos;&#x0A;- Original project: &apos;bankapp&apos;&#x0A;- Destination element: &apos;JavaSessions/src&apos;&#x0A;- Original elements:&#x0A;     bankapp/src/com.tvsmotor.client&#x0A;     bankapp/src/com.tvsmotor.pojomodel&#x0A;     bankapp/src/com.tvsmotor.service" description="Copy packages" destination="=JavaSessions/src" element1="/src&lt;com.tvsmotor.client" element2="/src&lt;com.tvsmotor.pojomodel" element3="/src&lt;com.tvsmotor.service" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1722596482720" version="1.0"/>
+</session>

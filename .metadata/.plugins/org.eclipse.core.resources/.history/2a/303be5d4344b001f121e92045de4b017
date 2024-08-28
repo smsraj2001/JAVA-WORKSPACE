@@ -1,0 +1,16 @@
+package com.tvsmotor.day5.array;
+
+public class ArrayDemo1 {
+	public static void main(String[] args) {
+		int arr[] = new int[10];
+		System.out.println(arr.length);
+		System.out.println(arr[0]);
+		
+		int marks[] = {10, 30, 70, 99, 56};
+		for(int mark : marks)
+		{
+			System.out.println(mark);
+		}
+	}
+
+}

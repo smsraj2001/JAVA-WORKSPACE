@@ -1,0 +1,6 @@
+package com.tvsmotor.day5.looselycoupled;
+
+public interface Payment {
+	void 
+
+}

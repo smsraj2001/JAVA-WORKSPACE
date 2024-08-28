@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\WORKSPACE\eclipse-workspace\java-hackathon"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\java8newfeatures"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\junitdemo"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\jdbc"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\demo2"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\mavendemo1"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\bankapp"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\jdbc2"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Other Projects\jdbc"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Task Projects\casestudy1"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\JavaSessions"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Task Projects\vehicletask2"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Other Projects\junitdemo"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Other Projects\vehicletask"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Other Projects\collectionframework"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Other Projects\java8newfeatures"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Other Projects\bankapp"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\collectionframework"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Assignments\Day-5\hackerrank-bubblesort-boilerplate"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Assignments\Day-7\newz-rdbms-assignment-boilerplate"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Assignments\Day-6\exercise-bt-stream-bufferedstream"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Assignments\Day-6\exercise-bt-exceptionhandling-exception"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Assignments\Day-4\exercise-bt-oops-constructor-overloading-traveller"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Assignments\Day-4\exercise-bt-loops-foreach"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Assignments\Day-4\exercise-bt-common-java-classes-wrapper-classes"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Assignments\Day-3\exercise-bt-operator-arithmeticoperator"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Assignments\Day-3\exercise-bt-conditionalstatements-switchcase"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Assignments\Day-3\exercise-bt-loops-for-validatephonenumber"/>
+			<item value="C:\Users\S.Sutharsanraj\OneDrive - TVS Motor Company Ltd\Documents\Digital Engineer Training\eclipse-workspace\Assignments\Day-3\exercise-bt-conditionalstatements-ifelse"/>
+			<item value="/home/zadmin/Desktop/exercise-bt-operator-arithmeticoperator"/>
+		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="278"/>
+			<item key="DIALOG_Y_ORIGIN" value="11"/>
+			<item key="DIALOG_WIDTH" value="1387"/>
+			<item key="DIALOG_HEIGHT" value="837"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="NewWizardAction">
+		<section name="NewWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="0"/>
+			<item key="DIALOG_Y_ORIGIN" value="0"/>
+			<item key="DIALOG_WIDTH" value="875"/>
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

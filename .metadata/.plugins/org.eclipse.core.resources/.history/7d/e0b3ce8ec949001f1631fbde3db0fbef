@@ -1,0 +1,57 @@
+package com.stackroute.basics;
+import java.util.Scanner;
+public class StringFinder
+{
+    //Create Scanner object as instance variable
+    Scanner sc = new Scanner(System.in);
+    public static void main(String[] args)
+    {
+        //Get three strings from the user
+        StringFinder strfind = new StringFinder();
+        String searchString = strfind.getInput();
+        String firstString = strfind.getInput();
+        String secondString = strfind.getInput();
+        int result = strfind.findString(searchString, firstString, secondString);
+        strfind.displayResult(result);
+        strfind.closeScanner();
+    }
+    public String getInput()
+    {
+        String query = sc.next();
+        return query;
+    }
+    public void displayResult(int result)
+    {
+        //displays the result
+        if (result == 1)
+        {
+            System.out.println("Found as expected");
+        }
+        else if (result == 0)
+        {
+            System.out.println("Not found");
+        }
+        else
+        {
+            System.out.println("Empty string or null");
+        }
+    }
+    public int findString(String searchString, String firstString, String secondString)
+    {
+         if (searchString == null || searchString.isEmpty())
+         {
+             return -1;
+         }
+         int firstIndex = searchString.indexOf(firstString);
+         int secondIndex = searchString.indexOf(secondString);
+         if (firstIndex == -1 || secondIndex == -1 || firstIndex >= secondIndex)
+         {
+             return 0;
+         }
+        return 1;
+    }
+    public void closeScanner()
+    {
+        sc.close();
+    }
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 packages to &apos;java-hackathon/src&apos;&#x0D;&#x0A;- Original project: &apos;vehicletask2&apos;&#x0D;&#x0A;- Destination element: &apos;java-hackathon/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     vehicletask2/src/com.tvsmotor.exception&#x0D;&#x0A;     vehicletask2/src/com.tvsmotor.client&#x0D;&#x0A;     vehicletask2/src/com.tvsmotor.model&#x0D;&#x0A;     vehicletask2/src/com.tvsmotor.service&#x0D;&#x0A;     vehicletask2/src/com.tvsmotor.util" description="Copy packages" destination="=java-hackathon/src" element1="/src&lt;com.tvsmotor.exception" element2="/src&lt;com.tvsmotor.client" element3="/src&lt;com.tvsmotor.model" element4="/src&lt;com.tvsmotor.service" element5="/src&lt;com.tvsmotor.util" flags="589830" fragments="5" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1723793529433" version="1.0"/>
+</session>

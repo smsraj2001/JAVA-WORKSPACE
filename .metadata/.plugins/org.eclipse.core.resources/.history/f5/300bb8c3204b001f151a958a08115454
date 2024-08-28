@@ -1,0 +1,5 @@
+package com.tvsmotor.day5.looselycoupled;
+
+public class Bank {
+
+}

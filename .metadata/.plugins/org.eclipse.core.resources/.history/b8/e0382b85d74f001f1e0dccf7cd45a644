@@ -1,0 +1,9 @@
+package com.tvsmotor.day9.functionalinterface;
+
+interface 
+public class FunctionInterfaceWithReturnType {
+	public static void main(String[] args) {
+		
+	}
+
+}

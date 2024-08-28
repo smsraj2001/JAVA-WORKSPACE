@@ -1,0 +1,10 @@
+package com.tvsmotor.day5.looselycoupled;
+
+public class LooselyCoupled {
+	public static void main(String[] args) {
+		Banking banking = new GooglePay();
+		banking.transferFund();
+		banking.transactionHistory();
+	}
+
+}

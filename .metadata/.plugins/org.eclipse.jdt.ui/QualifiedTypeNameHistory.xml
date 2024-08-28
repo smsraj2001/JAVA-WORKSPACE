@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.tvsmotor.sales.A"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.tvsmotor.day13.service.CalculatorService"/>
+    <fullyQualifiedTypeName name="com.tvsmotor.exception.IllegalIdException"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="javax.naming.InsufficientResourcesException"/>
+    <fullyQualifiedTypeName name="com.tvsmotor.exception.InsufficientStockException"/>
+    <fullyQualifiedTypeName name="com.tvsmotor.exception.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.tvsmotor.exception.VehicleNotFoundException"/>
+    <fullyQualifiedTypeName name="com.tvsmotor.exception.InvalidNameException"/>
+    <fullyQualifiedTypeName name="com.tvsmotor.exception.OutOfStockException"/>
+</qualifiedTypeNameHistroy>

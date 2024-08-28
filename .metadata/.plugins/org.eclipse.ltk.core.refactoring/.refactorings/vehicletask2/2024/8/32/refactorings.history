@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;OptionalDemo.java&apos; to &apos;java8newfeatures/src/com.tvsmotor.day13.optionalclass&apos;&#x0D;&#x0A;- Original project: &apos;vehicletask2&apos;&#x0D;&#x0A;- Destination element: &apos;java8newfeatures/src/com.tvsmotor.day13.optionalclass&apos;&#x0D;&#x0A;- Original element: &apos;com.tvsmotor.service.OptionalDemo.java&apos;" description="Copy compilation unit" destination="=java8newfeatures/src&lt;com.tvsmotor.day13.optionalclass" element1="/src&lt;com.tvsmotor.service{OptionalDemo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1723014055874" units="1" version="1.0"/>
+</session>
