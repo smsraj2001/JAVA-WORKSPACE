@@ -1,0 +1,3 @@
+[submodule "servletdemo"]
+	path = servletdemo
+	url = git@gitlab.stackroute.in:S.Sutharsanraj/servletdemo.git
